@@ -1,0 +1,18 @@
+{
+  "name": "lrn-elements",
+  "authors": [
+    "ELMSLN development team"
+  ],
+  "keywords": [
+    "element-collection"
+  ],
+  "license": "https://raw.githubusercontent.com/LRNWebComponents/lrn-assignment/master/LICENSE.md",
+  "dependencies": {
+    "lrn-assignment": "LRNWebComponents/lrn-assignment",
+    "lrn-icons": "LRNWebComponents/lrn-icons",
+    "lrn-vocab": "LRNWebComponents/lrn-vocab",
+    "lrn-content": "LRNWebComponents/lrn-content",
+    "lrn-page": "LRNWebComponents/lrn-page",
+    "lrn-aside": "LRNWebComponents/lrn-aside"
+  }
+}
